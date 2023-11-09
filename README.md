@@ -1,1 +1,3 @@
-# c3-website
+# C3
+
+The `c3.city` website
