@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the unofficial Commerce City site."
 date:   2023-11-10 11:51:14 -0700
 categories: jekyll update
 ---
