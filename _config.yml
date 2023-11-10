@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Commerce City, Colorado—Unofficial
+title: Commerce City—Unofficial
 email: robert@c3.city
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,10 +29,25 @@ url: "https://c3.city" # the base hostname & protocol for your site, e.g. http:/
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+#
+# Theme
+#
+
+# theme: minima
+# theme: jekyll-athena
+
+# https://github.com/broccolini/swiss
+remote_theme: broccolini/swiss
+theme_color:  yellow
+
+
+#
 # Build settings
-theme: minima
+#
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
