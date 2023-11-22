@@ -2,16 +2,18 @@
 layout: post
 title:  "Watering Schedule"
 date:   2023-11-22 13:47:00 -0700
-categories: sacwsd irrigation
+tags: sacwsd irrigation water
 ---
 
-In Adams County, we have a "mandatory watering schedule":
+Commerce City gets its water from Adams County. We have a (pretty cool
+in my opinion) dual water supply system: drinking water *and* irrigation
+water. To balance out demand, Adams County created a "mandatory watering
+schedule":
 
-
-> Three days a week, between **6pm** and **10am**.
+* Three days a week, from evening until morning: between **6pm** and **10am**.
 
 The actual days we can use the irrigation water depends on whether our
-street address is even or odd:
+street address is even or odd.
 
 | Address | Irrigation Days                  |
 |---------|----------------------------------|
