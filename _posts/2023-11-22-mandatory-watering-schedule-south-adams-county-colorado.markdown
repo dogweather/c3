@@ -5,7 +5,7 @@ date:   2023-11-22 13:47:00 -0700
 tags:   sacwsd irrigation water
 ---
 
-# Context
+# Context:
 
 Commerce City gets its water from Adams County. We have a (pretty cool
 in my opinion) dual water supply system: drinking water *and* irrigation
