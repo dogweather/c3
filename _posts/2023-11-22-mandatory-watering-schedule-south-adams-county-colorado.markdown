@@ -13,7 +13,7 @@ water. To balance out demand, Adams County created a "mandatory watering
 schedule".
 
 
-# The Rule
+# When we can water
 
 Irrigation watering is allowed three days a week, from evening until morning: between **6pm** and **10am**.
 
