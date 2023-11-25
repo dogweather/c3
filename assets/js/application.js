@@ -1,9 +1,9 @@
 $(function() {
     $(".gallery").justifiedGallery({
-        rowHeight : 200,
+        rowHeight : 150,
         lastRow : 'nojustify',
-        margins : 5,
-        rel : 'gallery1',
+        margins : 3,
+        rel : 'gallery',
     })
 }).on('jg.complete', function () {
     $(this).find('a').colorbox({
