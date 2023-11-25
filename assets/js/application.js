@@ -9,8 +9,7 @@ $(function() {
     $(this).find('a').colorbox({
         maxWidth : '80%',
         maxHeight : '80%',
-        opacity : 0.5,
-        transition : 'none',
+        transition : 'elastic',
         current : ''
     })
 })
