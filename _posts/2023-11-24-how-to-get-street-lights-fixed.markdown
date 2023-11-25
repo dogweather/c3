@@ -8,20 +8,14 @@ tags:   streets
 
 Street light outages **are handled by the two power companies** in town, not
 the city.
-[North of E.96th Ave it's United Power. South of E. 96th it's Xcel Energy.](https://www.c3gov.com/living-in/utilities)
+[North of E.96th Ave it's United Power. South of E. 96th it's Xcel Energy.](https://www.c3gov.com/living-in/utilities) That page gives the contact info for each company. But I was able to get a street light fixed by reporting it to the city.
 
 
-# When we can water
+# Doing it the easy way
 
-Irrigation watering is allowed three days a week, from evening until morning: between **6pm** and **10am**.
+I don't know if this is really the "right" way to do it. I'll find out and
+update this page. I had an excellent experience using the *Access Commerce City*
+mobile app.
 
-The actual days we can use the irrigation water depends on whether our
-street address is even or odd.
-
-| Address | Irrigation Days              |
-|---------|------------------------------|
-| Even:   | Sunday, Wednesday & Friday   |
-| Odd:    | Tuesday, Thursday & Saturday |
-
-
-Source and more info: [South Adams County Water / Irrigation Information](https://www.southadamswaterco.gov/water___wastewater/irrigation_information.php)
+I submitted a report, the city handed it off, and it got fixed in a week. Here
+are before and after pics plus screenshots from the app:
