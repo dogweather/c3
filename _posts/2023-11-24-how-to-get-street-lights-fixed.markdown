@@ -1,6 +1,22 @@
 ---
 title:  "Getting a streetlight fixed"
 tags:   streets
+images_1:
+  - path: /assets/street-light-fix/app-store-listing.jpg
+    title: App Store listing
+  - path: /assets/street-light-fix/app-intro-screen.jpg
+    title: App intro screen
+  - path: /assets/street-light-fix/app-report-submission.jpg
+    title: App report submission
+images_2:
+  - path: /assets/street-light-fix/before-1.jpg
+    title: Before
+  - path: /assets/street-light-fix/before-2.jpg
+    title: Before 
+  - path: /assets/street-light-fix/after-1.jpg
+    title: After
+  - path: /assets/street-light-fix/after-2.jpg
+    title: After
 ---
 
 ![Prairie dogs fixing a street light](/assets/prairie-dogs-fixing-a-street-light-circa-1924.jpeg){:class="float-left"}
@@ -23,16 +39,22 @@ I submitted a report, the city handed it off, and it was fixed in a week.
 
 ## Using the app
 
-![](/assets/street-light-fix/app-store-listing.jpg){:class="gallery"}
-![](/assets/street-light-fix/app-intro-screen.jpg){:class="gallery"}
-![](/assets/street-light-fix/app-report-submission.jpg){:class="gallery"}
-<br>
+<div class="gallery">
+  {% for image in page.images_1 %}
+    <a href="{{ image.path }}">
+      <img src="{{ image.path }}" alt="{{ image.title }}"/>
+    </a>
+  {% endfor %}
+</div>
+
 
 
 ## Before and after pics
 
-![](/assets/street-light-fix/before-1.jpg){:class="gallery"}
-![](/assets/street-light-fix/before-2.jpg){:class="gallery"}
-![](/assets/street-light-fix/after-1.jpg){:class="gallery"}
-![](/assets/street-light-fix/after-2.jpg){:class="gallery"}
-<br>
+<div class="gallery">
+  {% for image in page.images_2 %}
+    <a href="{{ image.path }}">
+      <img src="{{ image.path }}" alt="{{ image.title }}"/>
+    </a>
+  {% endfor %}
+</div>
