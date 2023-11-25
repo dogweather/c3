@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Watering Schedule"
-tags:   sacwsd irrigation water
+title:  "Getting a streetlight fixed"
+tags:   streets
 ---
 
-![Giant Capybara watering the lawn](/assets/capybara-watering-the-grass.jpeg){:class="float-left"}
+![Prairie dogs fixing a street light](/assets/prairie-dogs-fixing-a-street-light-circa-1924.jpeg){:class="float-left"}
 
 Commerce City gets its water from Adams County. We have a (pretty cool
 in my opinion) dual water supply system: drinking water *and* irrigation
