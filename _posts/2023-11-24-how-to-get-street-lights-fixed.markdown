@@ -29,9 +29,10 @@ Street light problems **are handled by the two power companies** in town, not th
 
 I don't know if this is really the "right" way to go about it. I'll find out and
 update this page. I had an excellent experience using the *Access Commerce City*
-mobile app.
+mobile app:
 
-I submitted a report, the city handed it off, and it was fixed in a week. 
+I submitted a report with it. Later, it notified me that the city handed off
+the report to the power company. The lamp post was fixed within a week. 
 <br>
 
 
