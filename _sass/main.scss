@@ -1,6 +1,17 @@
-img {
+$image-margin: 2.5rem;
+$image-size:   50% !important;
+
+
+img.float-left {
+    float: left;
+    height: auto;
+    margin: 0 $image-margin $image-margin 0;
+    max-width: $image-size;
+}
+
+img.float-right {
     float: right;
     height: auto;
-    margin: 0 0 1em 1em;
-    max-width: 50% !important;
+    margin: 0 0 $image-margin $image-margin;
+    max-width: $image-size;
 }
