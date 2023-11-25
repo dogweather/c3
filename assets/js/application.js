@@ -1,3 +1,7 @@
 $(function() {
-    $(".gallery").justifiedGallery();
+    $(".gallery").justifiedGallery({
+        rowHeight : 200,
+        lastRow : 'nojustify',
+        margins : 5
+    });
 });
