@@ -5,10 +5,10 @@ tags:   streets
 
 ![Prairie dogs fixing a street light](/assets/prairie-dogs-fixing-a-street-light-circa-1924.jpeg){:class="float-left"}
 
-Commerce City gets its water from Adams County. We have a (pretty cool
-in my opinion) dual water supply system: drinking water *and* irrigation
-water. To balance out demand, Adams County created a "mandatory watering
-schedule".
+
+Street light outages **are handled by the two power companies** in town, not
+the city.
+[North of E.96th Ave it's United Power. South of E. 96th it's Xcel Energy.](https://www.c3gov.com/living-in/utilities)
 
 
 # When we can water
