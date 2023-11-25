@@ -15,3 +15,7 @@ img.float-right {
     margin: 0 0 $image-margin $image-margin;
     max-width: $image-size;
 }
+
+br {
+    clear: both;
+}
