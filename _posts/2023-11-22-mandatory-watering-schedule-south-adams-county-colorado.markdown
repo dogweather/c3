@@ -1,14 +1,15 @@
 ---
 layout: post
 title:  "Watering Schedule"
-tags:   sacwsd irrigation water
+tags:   sacwsd irrigation water north
 ---
 
 ![Giant Capybara watering the lawn](/assets/capybara-watering-the-grass.jpeg){:class="float-left"}
 
-Commerce City gets its water from Adams County. We have a (pretty cool
-in my opinion) dual water supply system: drinking water *and* irrigation
-water. To balance out demand, Adams County created a "mandatory watering
+Commerce City gets its water from Adams County. North of E. 96th Ave, [the
+county constructed a dual water supply system](https://www.southadamswaterco.gov/water___wastewater/irrigation_information.php): **drinking water** and
+**irrigation water**. Pretty cool, in my opinion. I'd never seen anything
+like this before moving here. Anyhow, to balance out demand, Adams County created a "mandatory watering
 schedule".
 
 
