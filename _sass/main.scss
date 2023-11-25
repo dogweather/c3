@@ -1,18 +1,17 @@
-$image-size: 50% !important;
-$image-margin-bottom: 2.5rem;
-$image-margin-side: 2.5rem;
+$image-margin: 2.5rem;
+$image-size:   50% !important;
 
 
 img.float-left {
     float: left;
     height: auto;
-    margin: 0 $image-margin-side $image-margin-bottom 0;
+    margin: 0 $image-margin $image-margin 0;
     max-width: $image-size;
 }
 
 img.float-right {
     float: right;
     height: auto;
-    margin: 0 0 $image-margin-bottom $image-margin-side;
+    margin: 0 0 $image-margin $image-margin;
     max-width: $image-size;
 }
