@@ -46,7 +46,8 @@ theme_color:  yellow
 plugins:
   - jekyll-feed
 
-gems:
+# Enable redirects.
+# See https://github.com/jekyll/jekyll-redirect-from
   - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
