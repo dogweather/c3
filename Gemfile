@@ -39,3 +39,6 @@ gem "webrick", "~> 1.8"
 
 # Unused themes
 # gem "jekyll-athena", "~> 0.0.2"
+#
+
+gem 'jekyll-redirect-from', "= 0.16.0"
