@@ -21,7 +21,7 @@
 title: Commerce City—Unofficial
 email: robert@c3.city
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I’m Robert—a Commerce City Planning Commission alternate member.
+  Hi, I’m Robert—a member of the Commerce City Planning Commission.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://c3.city" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
