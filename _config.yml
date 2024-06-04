@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Commerce City—Unofficial
+title: Commerce City, Colorado—Unofficial
 email: robert@c3.city
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I’m Robert—a member of the Commerce City Planning Commission.
