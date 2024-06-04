@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "My Position on the Reunion Cannabis Ammendment #6"
-tags:   cannabis reunion planning design
+title:  "The Reunion Cannabis Ammend-ment"
+tags:   
+  - cannabis
+  - design
+  - planning
+  - reunion
 redirect_from:
   - /cannabis/
 ---
 
-TBD.
+This is <a href="/assets/letter.pdf">my letter, including photos, to the City Council</a>.
+I'm in favor of the ammendment. But I'm not yet convinced that Social Cannabis can
+deliver the promised "premium" experience.
