@@ -10,6 +10,6 @@ redirect_from:
   - /cannabis/
 ---
 
-This is **<a href="/assets/letter.pdf">my letter, including photos, to the City Council</a>**.
+**<a href="/assets/letter.pdf">This is my letter, including photos</a>**, to the City Council.
 I'm in favor of the ammendment. But I'm not yet convinced that Social Cannabis can
-deliver the promised "premium" experience.
+deliver the promised "premium" experience. I'd like for Social Cannabis to show us what they can do.
