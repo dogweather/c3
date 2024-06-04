@@ -46,6 +46,14 @@ theme_color:  yellow
 plugins:
   - jekyll-feed
 
+gems:
+  - jekyll-redirect-from
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-redirect-from
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
