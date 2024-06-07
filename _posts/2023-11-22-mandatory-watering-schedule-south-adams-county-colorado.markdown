@@ -1,7 +1,9 @@
 ---
-layout: post
+layout:  post
 title:  "Watering Schedule"
-tags:   sacwsd irrigation water north
+tags:    sacwsd irrigation water north
+date:    2023-11-22
+updated: 2024-06-06
 ---
 
 ![Giant Capybara watering the lawn](/assets/capybara-watering-the-grass.jpeg){:class="float-left"}
@@ -26,4 +28,4 @@ street address is even or odd.
 | Odd:    | Tuesday, Thursday & Saturday |
 
 
-Source and more info: [South Adams County Water / Irrigation Information](https://www.southadamswaterco.gov/water___wastewater/irrigation_information.php)
+Source: [South Adams County Water / Irrigation Information](https://www.southadamswaterco.gov/water___wastewater/irrigation_information.php), last accessed June 6, 2024.
