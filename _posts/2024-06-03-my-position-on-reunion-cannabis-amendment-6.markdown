@@ -50,10 +50,11 @@ for Social Cannabis to show us how they'll meet the expectations they set.
 
 ### Well Designed Denver-Area Dispensaries
 
-These incorporate design elements that signal "premium" and up-market:
-Artistic inspiration, playfulness, a relaxed, un-hurried atmosphere,
-space left unused, lack of clutter, subtlety in the messaging, and orginality.
-Finally, consistent design with colors, materials, typography, textures, and lighting.
+These designs signal "premium" and up-market:
+artistic, playful, a relaxed & un-hurried atmosphere,
+space left unused, lack of clutter, subtle messaging, orginality.
+Finally, they all use colors, materials, typography, textures, and lighting
+to create consistency.
 
 <div class="gallery">
   {% for image in page.images.other %}
