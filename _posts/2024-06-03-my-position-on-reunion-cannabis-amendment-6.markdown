@@ -22,23 +22,23 @@ images:
       title: The Republic
   social_cannabis:
     - path: /assets/dispensaries/social-cannabis/chambers-2.jpg
-      title: Chambers
+      title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-4.jpg
-      title: Chambers
+      title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-5.jpg
-      title: Chambers
+      title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
-      title: Chambers
+      title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/golden-1.jpg
-      title: Golden
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-3.jpg
-      title: Golden
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-5.jpg
-      title: Golden
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-6.jpg
-      title: Golden
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/louisville-2.jpg
-      title: Louisville
+      title: Social Cannabis, Louisville
 ---
 
 **<a href="/assets/letter.pdf">This is my letter</a>**, to the City Council.
@@ -46,12 +46,12 @@ I'm in favor of the ammendment. But I'm not yet convinced that Social Cannabis c
 deliver the promised "premium", up-scale interior and experience. I'd like
 for Social Cannabis to show us what they can do.
 
-## Other Local Dispensaries
+## Elegant Denver-Area Dispensaries
 
 <div class="gallery">
   {% for image in page.images.other %}
     <a href="{{ image.path }}" title="{{ image.title }}">
-      <img src="{{ image.path }}" alt="Google Maps screenshot: {{ image.title }}"/>
+      <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
 </div>
@@ -61,7 +61,7 @@ for Social Cannabis to show us what they can do.
 <div class="gallery">
   {% for image in page.images.social_cannabis %}
     <a href="{{ image.path }}" title="{{ image.title }}">
-      <img src="{{ image.path }}" alt="Google Maps screenshot: {{ image.title }}"/>
+      <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
 </div>
