@@ -50,13 +50,13 @@ for Social Cannabis to show us how they'll meet the expectations they set.
 
 ### Well Designed Denver-Area Dispensaries
 
-These designs signal "premium" and up-market:
+They signal "premium" and up-market:
 artistic, playful, a relaxed & un-hurried atmosphere,
 space left unused, lack of clutter, subtle messaging, orginality.
 Finally, they all use colors, materials, typography, textures, and lighting
 to create consistency.
 
-<div class="gallery">
+<div class="gallery" style="margin-bottom: 2em">
   {% for image in page.images.other %}
     <a href="{{ image.path }}" title="{{ image.title }}">
       <img src="{{ image.path }}" alt="{{ image.title }}"/>
@@ -66,24 +66,24 @@ to create consistency.
 
 ### Social Cannabis Dispensaries
 
-Social Cannabis creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
+S.C. creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
 non-matching colors, interiors cluttered with manufacturer marketing materials, 
 papered over windows, messy counters and displays used for storage.
 
-The only original decoration or art I could find in any of their locations is the billboard-sized "Mile High in Colorado" 
-sign in Golden. However, its uniqueness plus the large print and placement in front of massive windows gives me 
-the impression of it being an end-run around Golden's signage regulations: It's advertisement, visible 
-from hundreds of feet away. Also note that the message, "Mile High…" lacks the upscale subtlety of the 
-other dispensaries.
 
-
-<div class="gallery">
+<div class="gallery" style="margin-bottom: 2em">
   {% for image in page.images.social_cannabis %}
     <a href="{{ image.path }}" title="{{ image.title }}">
       <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
 </div>
+
+The only original decoration or art I could find in any of their locations is the billboard-sized "Mile High in Colorado" 
+sign in Golden. (The last image, above.) However, its uniqueness plus the large print and placement in front of massive windows gives me 
+the impression of it being an end-run around Golden's signage regulations: It's advertisement, visible 
+from hundreds of feet away. Also note that the message, "Mile High…" lacks the upscale subtlety of the 
+other dispensaries.
 
 
 ----
