@@ -82,8 +82,13 @@ the impression of it being an end-run around Golden's signage regulations: It's 
 from hundreds of feet away. Also note that the message, "Mile High…" lacks the upscale subtlety of the 
 other dispensaries.
 
-I'd like for Social Cannabis to show us how they'll meet the expectations they set.
+I'm in touch with S.C. people and attended their presentation. 
+I was very supportive of them until I saw their current stores. 
+I'll post their response here if they desire. I'm doing my best not to blindside them:
+Before making my critique public, I let them
+know about my position on the issue.
 
-----
+What I'd really like is for Social Cannabis to follow through; 
+to show us how they'll meet the expectations they set.
 
 Here's **<a href="/assets/letter.pdf">my original letter</a>** to the City Council.
