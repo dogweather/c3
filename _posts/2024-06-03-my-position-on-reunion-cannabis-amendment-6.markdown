@@ -41,12 +41,17 @@ images:
       title: Social Cannabis, Louisville
 ---
 
-**<a href="/assets/letter.pdf">This is my letter</a>**, to the City Council.
-I'm in favor of the ammendment. But I'm not yet convinced that Social Cannabis can
-deliver the promised "premium", up-scale interior and experience. I'd like
-for Social Cannabis to show us what they can do.
+**I'm in favor of the amendment** allowing cannabis sales at E. 104th & Tower Rd.
 
-## Elegant Denver-Area Dispensaries
+**But I'm not convinced that Social Cannabis can
+deliver** the promised "premium" _(source: appplicant presentation)_ build-out. I'd like
+for Social Cannabis to show us what they can do.
+Here's **<a href="/assets/letter.pdf">my original letter</a>** to the City Council.
+
+
+## Compare others to Social Cannabis locations:
+
+### Elegant Denver-Area Dispensaries
 
 <div class="gallery">
   {% for image in page.images.other %}
@@ -56,7 +61,7 @@ for Social Cannabis to show us what they can do.
   {% endfor %}
 </div>
 
-## Social Cannabis Dispensaries
+### Social Cannabis Dispensaries
 
 <div class="gallery">
   {% for image in page.images.social_cannabis %}
