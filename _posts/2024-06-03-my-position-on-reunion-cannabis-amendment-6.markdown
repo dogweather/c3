@@ -45,7 +45,7 @@ images:
 deliver** the promised "premium" build-out. (_Source:_ Applicant Presentation.)
 
 
-## Compare Others to Social Cannabis:
+## Comparing Others to Social Cannabis:
 
 ### Well Designed Denver-Area Dispensaries
 
