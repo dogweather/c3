@@ -29,8 +29,6 @@ images:
       title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-4.jpg
       title: Social Cannabis, Chambers
-    - path: /assets/dispensaries/social-cannabis/chambers-5.jpg
-      title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
       title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/golden-3.jpg
