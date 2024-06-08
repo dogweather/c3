@@ -33,8 +33,6 @@ images:
       title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-3.jpg
       title: Social Cannabis, Golden
-    - path: /assets/dispensaries/social-cannabis/golden-5.jpg
-      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-6.jpg
       title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/louisville-2.jpg
@@ -44,14 +42,14 @@ images:
 **I'm in favor of the amendment** allowing cannabis sales at E. 104th & Tower Rd.
 
 **But I'm not convinced that Social Cannabis can
-deliver** the promised "premium" _(source: appplicant presentation)_ build-out. I'd like
+deliver** the promised "premium" _(source: Applicant Presentation)_ build-out. I'd like
 for Social Cannabis to show us what they can do.
 Here's **<a href="/assets/letter.pdf">my original letter</a>** to the City Council.
 
 
-## Compare others to Social Cannabis locations:
+## Compare Others to Social Cannabis locations:
 
-### Elegant Denver-Area Dispensaries
+### Well Designed Denver-Area Dispensaries
 
 <div class="gallery">
   {% for image in page.images.other %}
