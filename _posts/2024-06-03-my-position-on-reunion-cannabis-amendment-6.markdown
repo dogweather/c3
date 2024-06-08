@@ -42,15 +42,14 @@ images:
 **I'm in favor of the amendment** allowing cannabis sales at E. 104th & Tower Rd.
 
 **But I'm skeptical that Social Cannabis can
-deliver** the promised "premium" build-out. (_Source:_ Applicant Presentation.) I'd like
-for Social Cannabis to show us how they'll meet the expectations they set.
+deliver** the promised "premium" build-out. (_Source:_ Applicant Presentation.)
 
 
 ## Compare Others to Social Cannabis:
 
 ### Well Designed Denver-Area Dispensaries
 
-They signal "premium" and up-market:
+These signal "premium" and up-market:
 artistic, playful, a relaxed & un-hurried atmosphere,
 space left unused, lack of clutter, subtle messaging, orginality.
 Finally, they all use colors, materials, typography, textures, and lighting
@@ -85,6 +84,7 @@ the impression of it being an end-run around Golden's signage regulations: It's 
 from hundreds of feet away. Also note that the message, "Mile High…" lacks the upscale subtlety of the 
 other dispensaries.
 
+I'd like for Social Cannabis to show us how they'll meet the expectations they set.
 
 ----
 
