@@ -68,7 +68,7 @@ to create consistency.
 
 Social Cannabis creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
 non-matching colors, interiors cluttered with manufacturer marketing materials, 
-papered over windows, messy counters and disorganized product displays.
+papered over windows, messy counters and displays used for storage.
 
 The only original decoration or art I could find in any of their locations is the billboard-sized "Mile High in Colorado" 
 sign in Golden. However, its uniqueness plus the large print and placement in front of massive windows gives me 
