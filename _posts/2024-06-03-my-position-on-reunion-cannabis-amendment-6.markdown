@@ -9,54 +9,72 @@ tags:
 redirect_from:
   - /cannabis/
 images:
-  upmarket:
-    - path: /assets/dispensaries/upmarket/ajoya-1.jpg
+  other:
+    - path: /assets/dispensaries/other/ajoya-1.jpg
       title: Ajoya
-    - path: /assets/dispensaries/upmarket/altitude-1.jpg
+    - path: /assets/dispensaries/other/altitude-1.jpg
       title: Altitude
-    - path: /assets/dispensaries/upmarket/native-roots-1.jpg
+    - path: /assets/dispensaries/other/native-roots-1.jpg
       title: Native Roots
-    - path: /assets/dispensaries/upmarket/native-roots-3.jpg
+    - path: /assets/dispensaries/other/native-roots-3.jpg
       title: Native Roots
-    - path: /assets/dispensaries/upmarket/the-republic-1.jpg
+    - path: /assets/dispensaries/other/the-republic-1.jpg
       title: The Republic
   social_cannabis:
-    - path: /assets/dispensaries/social-cannabis/chambers-2.jpg
-      title: Chambers
-    - path: /assets/dispensaries/social-cannabis/chambers-4.jpg
-      title: Chambers
-    - path: /assets/dispensaries/social-cannabis/chambers-5.jpg
-      title: Chambers
-    - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
-      title: Chambers
-    - path: /assets/dispensaries/social-cannabis/golden-1.jpg
-      title: Golden
-    - path: /assets/dispensaries/social-cannabis/golden-3.jpg
-      title: Golden
-    - path: /assets/dispensaries/social-cannabis/golden-5.jpg
-      title: Golden
-    - path: /assets/dispensaries/social-cannabis/golden-6.jpg
-      title: Golden
     - path: /assets/dispensaries/social-cannabis/louisville-2.jpg
-      title: Louisville
+      title: Social Cannabis, Louisville
+    - path: /assets/dispensaries/social-cannabis/golden-1.jpg
+      title: Social Cannabis, Golden
+    - path: /assets/dispensaries/social-cannabis/chambers-2.jpg
+      title: Social Cannabis, Chambers
+    - path: /assets/dispensaries/social-cannabis/chambers-4.jpg
+      title: Social Cannabis, Chambers
+    - path: /assets/dispensaries/social-cannabis/chambers-5.jpg
+      title: Social Cannabis, Chambers
+    - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
+      title: Social Cannabis, Chambers
+    - path: /assets/dispensaries/social-cannabis/golden-3.jpg
+      title: Social Cannabis, Golden
+    - path: /assets/dispensaries/social-cannabis/golden-6.jpg
+      title: Social Cannabis, Golden
 ---
 
-**<a href="/assets/letter.pdf">This is my letter</a>**, to the City Council.
-I'm in favor of the ammendment. But I'm not yet convinced that Social Cannabis can
-deliver the promised "premium", up-scale interior and experience. I'd like
-for Social Cannabis to show us what they can do.
+**I'm in favor of the amendment** allowing cannabis sales at E. 104th & Tower Rd.
 
-## Local Up-market Dispensaries
+**But I'm skeptical that Social Cannabis can
+deliver** the promised "premium" build-out. (_Source:_ Applicant Presentation.) I'd like
+for Social Cannabis to show us how they'll meet the expectations they set.
+
+
+## Compare Others to Social Cannabis locations:
+
+### Well Designed Denver-Area Dispensaries
+
+These incorporate design elements that signal "premium" and up-market:
+Artistic inspiration, playfulness, a relaxed, un-hurried atmosphere,
+space left unused, lack of clutter, subtlety in the messaging, and orginality.
+Finally, consistent design with colors, materials, typography, textures, and lighting.
 
 <div class="gallery">
-  {% for image in page.images.upmarket %}
+  {% for image in page.images.other %}
     <a href="{{ image.path }}" title="{{ image.title }}">
       <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
 </div>
 
-## Social Cannabis Dispensaries
+### Social Cannabis Dispensaries
+
+Social Cannabis creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
+non-matching colors, interiors cluttered with manufacturer marketing materials, 
+papered over windows, messy counters and disorganized product displays.
+
+The only original decoration or art I could find in any of their locations is the billboard-sized "Mile High in Colorado" 
+sign in Golden. However, its uniqueness plus the large print and placement in front of massive windows gives me 
+the impression of it being an end-run around Golden's signage regulations: It's advertisement, visible 
+from hundreds of feet away. Also note that the message, "Mile High…" lacks the upscale subtlety of the 
+other dispensaries.
+
 
 <div class="gallery">
   {% for image in page.images.social_cannabis %}
@@ -65,3 +83,8 @@ for Social Cannabis to show us what they can do.
     </a>
   {% endfor %}
 </div>
+
+
+----
+
+Here's **<a href="/assets/letter.pdf">my original letter</a>** to the City Council.
