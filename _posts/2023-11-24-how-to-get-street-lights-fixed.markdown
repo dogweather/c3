@@ -1,5 +1,7 @@
 ---
+layout: post
 title:  "Getting a streetlight fixed"
+date:   2023-11-24
 tags:   streets
 images_1:
   - path: /assets/street-light-fix/app-store-listing.jpg
@@ -43,7 +45,7 @@ fixed within a week. Here's how that looked:
 
 <div class="gallery">
   {% for image in page.images_1 %}
-    <a href="{{ image.path }}">
+    <a href="{{ image.path }}" title="{{ image.title }}">
       <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
@@ -55,7 +57,7 @@ fixed within a week. Here's how that looked:
 
 <div class="gallery">
   {% for image in page.images_2 %}
-    <a href="{{ image.path }}">
+    <a href="{{ image.path }}" title="{{ image.title }}">
       <img src="{{ image.path }}" alt="{{ image.title }}"/>
     </a>
   {% endfor %}
