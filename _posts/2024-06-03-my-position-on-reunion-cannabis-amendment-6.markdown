@@ -43,6 +43,13 @@ images:
       title: Social Cannabis, Golden
 ---
 
+<figure style="width: 40%; display: inline; float: right; margin: 0 0 3em 3em">
+  <img src="/assets/dispensaries/other/native-roots-highlands.jpg" alt="An example of a store that Social Cannabis did NOT build.">
+  <br>
+  <figcaption>A store that Social Cannabis did <i>not</i> build.</figcaption>
+</figure>
+
+
 **I'm in favor of the amendment** allowing cannabis sales at E. 104th & Tower Rd.
 
 **But I'm skeptical that Social Cannabis can
