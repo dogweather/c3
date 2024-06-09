@@ -22,11 +22,7 @@ images:
       title: Colorado Harvest
     - path: /assets/dispensaries/other/diego-pellicer-1.webp
       title: Diego Pellicer
-    - path: /assets/dispensaries/other/diego-pellicer-2.webp
-      title: Diego Pellicer
     - path: /assets/dispensaries/other/lightshade-1.webp
-      title: Lightshade
-    - path: /assets/dispensaries/other/lightshade-3.webp
       title: Lightshade
     - path: /assets/dispensaries/other/lit-federal-1.webp
       title: Lit Federal
@@ -34,8 +30,6 @@ images:
       title: Kind Love
     - path: /assets/dispensaries/other/high-west-1.webp
       title: High West
-    - path: /assets/dispensaries/other/fox-cannabis-1.webp
-      title: Fox Cannabis
     - path: /assets/dispensaries/other/the-lodge-1.webp
       title: The Lodge
     - path: /assets/dispensaries/other/altitude-2.webp
