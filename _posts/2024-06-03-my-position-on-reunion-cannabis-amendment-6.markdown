@@ -21,14 +21,23 @@ images:
     - path: /assets/dispensaries/other/the-republic-1.jpg
       title: The Republic
   social_cannabis:
+    - path: /assets/dispensaries/social-cannabis/federal-4.webp
+      title: Social Cannabis, Federal
     - path: /assets/dispensaries/social-cannabis/federal-2.jpg
       title: Social Cannabis, Federal
-    - path: /assets/dispensaries/social-cannabis/federal-3.jpg
-      title: Social Cannabis, Federal
+    - path: /assets/dispensaries/social-cannabis/golden-9.webp
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/louisville-2.jpg
       title: Social Cannabis, Louisville
-    - path: /assets/dispensaries/social-cannabis/federal-1.jpg
+    - path: /assets/dispensaries/social-cannabis/golden-6.jpg
+      title: Social Cannabis, Golden
+    - path: /assets/dispensaries/social-cannabis/golden-7.webp
+      title: Social Cannabis, Golden
+
+    - path: /assets/dispensaries/social-cannabis/federal-5.webp
       title: Social Cannabis, Federal
+    - path: /assets/dispensaries/social-cannabis/golden-12.webp
+      title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-1.jpg
       title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/chambers-2.jpg
@@ -37,9 +46,10 @@ images:
       title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
       title: Social Cannabis, Chambers
+  
     - path: /assets/dispensaries/social-cannabis/golden-3.jpg
       title: Social Cannabis, Golden
-    - path: /assets/dispensaries/social-cannabis/golden-6.jpg
+    - path: /assets/dispensaries/social-cannabis/golden-8.webp
       title: Social Cannabis, Golden
 ---
 
