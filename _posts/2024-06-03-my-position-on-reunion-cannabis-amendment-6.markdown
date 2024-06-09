@@ -10,8 +10,10 @@ redirect_from:
   - /cannabis/
 images:
   other:
-    - path: /assets/dispensaries/other/ajoya-1.jpg
+    - path: /assets/dispensaries/other/ajoya-2.webp
       title: Ajoya
+    - path: /assets/dispensaries/other/colorado-harvest-1.webp
+      title: Colorado Harvest
     - path: /assets/dispensaries/other/altitude-1.jpg
       title: Altitude
     - path: /assets/dispensaries/other/native-roots-1.jpg
@@ -20,6 +22,7 @@ images:
       title: Native Roots
     - path: /assets/dispensaries/other/the-republic-1.jpg
       title: The Republic
+
   social_cannabis:
     - path: /assets/dispensaries/social-cannabis/federal-4.webp
       title: Social Cannabis, Federal
@@ -46,17 +49,16 @@ images:
       title: Social Cannabis, Chambers
     - path: /assets/dispensaries/social-cannabis/chambers-7.jpg
       title: Social Cannabis, Chambers
-  
     - path: /assets/dispensaries/social-cannabis/golden-3.jpg
       title: Social Cannabis, Golden
     - path: /assets/dispensaries/social-cannabis/golden-8.webp
       title: Social Cannabis, Golden
 ---
 
-<figure style="width: 40%; display: inline; float: right; margin: 0 0 3em 3em">
+<figure style="width: 20%; display: inline; float: right; margin: 0 0 3em 3em">
   <img src="/assets/dispensaries/other/native-roots-highlands.jpg" alt="An example of a store that Social Cannabis did NOT build.">
   <br>
-  <figcaption>A store that Social Cannabis did <i>not</i> build.</figcaption>
+  <figcaption>Not built by Social Cannabis.</figcaption>
 </figure>
 
 
@@ -71,11 +73,6 @@ decorated "to the nines", as Josh promised me.
 
 ### Well Designed Denver-Area Dispensaries
 
-These signal "premium" and up-market:
-artistic, playful, a relaxed & un-hurried atmosphere,
-space left unused, lack of clutter, subtle messaging, orginality.
-Finally, they all use colors, materials, typography, textures, and lighting
-to create consistency.
 
 <div class="gallery" style="margin-bottom: 2em">
   {% for image in page.images.other %}
@@ -85,11 +82,14 @@ to create consistency.
   {% endfor %}
 </div>
 
+These signal "premium" and up-market:
+artistic, playful, a relaxed & un-hurried atmosphere,
+space left unused, lack of clutter, subtle messaging, orginality.
+Finally, they all use colors, materials, typography, textures, and lighting
+to create consistency.
+
 ### Social Cannabis Dispensaries
 
-S.C. creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
-non-matching colors, interiors cluttered with manufacturer marketing materials, 
-papered over windows, messy counters and displays used for storage.
 
 
 <div class="gallery" style="margin-bottom: 2em">
@@ -99,6 +99,11 @@ papered over windows, messy counters and displays used for storage.
     </a>
   {% endfor %}
 </div>
+
+S.C. creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
+non-matching colors, interiors cluttered with manufacturer marketing materials, 
+papered over windows, messy counters and displays used for storage.
+
 
 > "Throw those out—don't put those on the bar." This is what the restaurant owner said to me
 > about the mountain of free beer signs, posters, and table tents we'd get from the distributor. 
