@@ -10,18 +10,29 @@ redirect_from:
   - /cannabis/
 images:
   other:
+    - path: /assets/dispensaries/other/strawberry-fields-1.webp
+      title: Strawberry Fields
     - path: /assets/dispensaries/other/ajoya-2.webp
       title: Ajoya
     - path: /assets/dispensaries/other/colorado-harvest-1.webp
       title: Colorado Harvest
-    - path: /assets/dispensaries/other/altitude-1.jpg
-      title: Altitude
-    - path: /assets/dispensaries/other/native-roots-1.jpg
-      title: Native Roots
-    - path: /assets/dispensaries/other/native-roots-3.jpg
-      title: Native Roots
-    - path: /assets/dispensaries/other/the-republic-1.jpg
-      title: The Republic
+    - path: /assets/dispensaries/other/diego-pellicer-1.webp
+      title: Diego Pellicer
+    - path: /assets/dispensaries/other/diego-pellicer-2.webp
+      title: Diego Pellicer
+    - path: /assets/dispensaries/other/lightshade-1.webp
+      title: Lightshade
+    - path: /assets/dispensaries/other/lightshade-3.webp
+      title: Lightshade
+    - path: /assets/dispensaries/other/lit-federal-1.webp
+      title: Lit Federal
+    - path: /assets/dispensaries/other/kind-love-1.webp
+      title: Kind Love
+    - path: /assets/dispensaries/other/high-west-1.webp
+      title: High West
+    - path: /assets/dispensaries/other/fox-cannabis-1.webp
+      title: Fox Cannabis
+
 
   social_cannabis:
     - path: /assets/dispensaries/social-cannabis/federal-4.webp
@@ -82,7 +93,7 @@ decorated "to the nines", as Josh promised me.
   {% endfor %}
 </div>
 
-These signal "premium" and up-market:
+**These signal premium and up-market:**
 artistic, playful, a relaxed & un-hurried atmosphere,
 space left unused, lack of clutter, subtle messaging, orginality.
 Finally, they all use colors, materials, typography, textures, and lighting
@@ -100,7 +111,7 @@ to create consistency.
   {% endfor %}
 </div>
 
-S.C. creates ultra-low-budget, down-market build-outs. Plastic Walmart furniture, no flooring, no art,
+**S.C. creates ultra-low-budget, down-market build-outs.** Plastic Walmart furniture, no flooring, no art,
 non-matching colors, interiors cluttered with manufacturer marketing materials, 
 papered over windows, messy counters and displays used for storage.
 
