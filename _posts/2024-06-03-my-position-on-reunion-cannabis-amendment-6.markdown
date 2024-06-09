@@ -12,6 +12,10 @@ images:
   other:
     - path: /assets/dispensaries/other/strawberry-fields-1.webp
       title: Strawberry Fields
+    - path: /assets/dispensaries/other/native-roots-3.webp
+      title: Native Roots
+    - path: /assets/dispensaries/other/native-roots-4.webp
+      title: Native Roots
     - path: /assets/dispensaries/other/ajoya-2.webp
       title: Ajoya
     - path: /assets/dispensaries/other/colorado-harvest-1.webp
@@ -32,6 +36,10 @@ images:
       title: High West
     - path: /assets/dispensaries/other/fox-cannabis-1.webp
       title: Fox Cannabis
+    - path: /assets/dispensaries/other/the-lodge-1.webp
+      title: The Lodge
+    - path: /assets/dispensaries/other/altitude-2.webp
+      title: Altitude
 
 
   social_cannabis:
@@ -67,9 +75,9 @@ images:
 ---
 
 <figure style="width: 20%; display: inline; float: right; margin: 0 0 3em 3em">
-  <img src="/assets/dispensaries/other/native-roots-highlands.jpg" alt="An example of a store that Social Cannabis did NOT build.">
+  <img src="/assets/dispensaries/other/native-roots-1.webp" alt="An example of a store that Social Cannabis did NOT build.">
   <br>
-  <figcaption>Not built by Social Cannabis.</figcaption>
+  <figcaption>Not designed by Social Cannabis.</figcaption>
 </figure>
 
 
@@ -79,10 +87,9 @@ images:
 deliver** the promised "premium" build-out. (_Source:_ Applicant Presentation.) Or,
 decorated "to the nines", as Josh promised me.
 
+<div class="br">&nbsp;</div>
 
-## Comparing Others to Social Cannabis:
-
-### Well Designed Denver-Area Dispensaries
+## Well Designed Denver-Area Dispensaries
 
 
 <div class="gallery" style="margin-bottom: 2em">
@@ -99,9 +106,8 @@ space left unused, lack of clutter, subtle messaging, orginality.
 Finally, they all use colors, materials, typography, textures, and lighting
 to create consistency.
 
-### Social Cannabis Dispensaries
 
-
+## Social Cannabis Dispensaries
 
 <div class="gallery" style="margin-bottom: 2em">
   {% for image in page.images.social_cannabis %}
